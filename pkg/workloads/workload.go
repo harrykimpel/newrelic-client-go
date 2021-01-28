@@ -80,6 +80,8 @@ type UpdateInput struct {
 }
 
 // ListWorkloads retrieves a set of New Relic One workloads by their account ID.
+//
+// Deprecated: use entities.GetEntities instead
 func (e *Workloads) ListWorkloads(accountID int) ([]*Workload, error) {
 	resp := workloadsResponse{}
 	vars := map[string]interface{}{
@@ -98,6 +100,8 @@ func (e *Workloads) ListWorkloads(accountID int) ([]*Workload, error) {
 }
 
 // GetWorkload retrieves a New Relic One workload by its GUID.
+//
+// Deprecated: use entities.GetEntity instead
 func (e *Workloads) GetWorkload(accountID int, workloadGUID string) (*Workload, error) {
 	resp := workloadResponse{}
 	vars := map[string]interface{}{
@@ -113,6 +117,8 @@ func (e *Workloads) GetWorkload(accountID int, workloadGUID string) (*Workload, 
 }
 
 // CreateWorkload creates a New Relic One workload.
+//
+// Deprecated: use WorkloadCreate instead
 func (e *Workloads) CreateWorkload(accountID int, workload CreateInput) (*Workload, error) {
 	resp := workloadCreateResponse{}
 	vars := map[string]interface{}{
@@ -128,6 +134,8 @@ func (e *Workloads) CreateWorkload(accountID int, workload CreateInput) (*Worklo
 }
 
 // DeleteWorkload deletes a New Relic One workload.
+//
+// Deprecated: use WorkloadDelete instead
 func (e *Workloads) DeleteWorkload(guid string) (*Workload, error) {
 	resp := workloadDeleteResponse{}
 	vars := map[string]interface{}{
@@ -142,6 +150,8 @@ func (e *Workloads) DeleteWorkload(guid string) (*Workload, error) {
 }
 
 // DuplicateWorkload duplicates a New Relic One workload.
+//
+// Deprecated: use WorkloadDelete instead
 func (e *Workloads) DuplicateWorkload(accountID int, sourceGUID string, workload *DuplicateInput) (*Workload, error) {
 	resp := workloadDuplicateResponse{}
 	vars := map[string]interface{}{
@@ -158,6 +168,8 @@ func (e *Workloads) DuplicateWorkload(accountID int, sourceGUID string, workload
 }
 
 // UpdateWorkload updates a New Relic One workload.
+//
+// Deprecated: use WorkloadUpdate instead
 func (e *Workloads) UpdateWorkload(guid string, workload UpdateInput) (*Workload, error) {
 	resp := workloadUpdateResponse{}
 	vars := map[string]interface{}{
