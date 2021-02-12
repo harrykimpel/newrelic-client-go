@@ -5,7 +5,7 @@ package workloads
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimp
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // Workloads is used to communicate with the New Relic Workloads product.

@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpelconfig"
-	"github.com/harrykimpnewrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // Plugins is used to communicate with the New Relic Plugins product.

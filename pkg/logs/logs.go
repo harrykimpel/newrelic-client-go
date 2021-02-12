@@ -6,7 +6,7 @@ import (
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimp-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // Logs is used to send log data to the New Relic Log API

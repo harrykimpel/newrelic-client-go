@@ -9,7 +9,7 @@ import (
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimprelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 const (

@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/harrykimpel/newrelic-client-go/pkg/errors"
-	mock "github.com/harrykimpnewrelic-client-go/pkg/testhelpers"
+	mock "github.com/harrykimpel/newrelic-client-go/pkg/testhelpers"
 )
 
 var (

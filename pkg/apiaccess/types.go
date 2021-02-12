@@ -6,7 +6,7 @@ import (
 	"fmt"
 
 	"github.com/harrykimpel/newrelic-client-go/pkg/accounts"
-	"github.com/harrykimpnewrelic-client-go/pkg/users"
+	"github.com/harrykimpel/newrelic-client-go/pkg/users"
 )
 
 // APIAccessIngestKeyErrorType - The type of error.

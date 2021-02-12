@@ -1,4 +1,4 @@
-module github.com/newrelic/newrelic-client-go/tools
+module github.com/harrykimpel/newrelic-client-go/tools
 
 go 1.15
 

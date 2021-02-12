@@ -3,7 +3,7 @@ package apiaccess
 
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpnewrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
 	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 

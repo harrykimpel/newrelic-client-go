@@ -6,7 +6,7 @@ import (
 
 	"github.com/harrykimpel/newrelic-client-go/pkg/errors"
 
-	"github.com/harrykimpnewrelic-client-go/internal/serialization"
+	"github.com/harrykimpel/newrelic-client-go/internal/serialization"
 )
 
 // ChannelType specifies the channel type used when creating the alert channel.

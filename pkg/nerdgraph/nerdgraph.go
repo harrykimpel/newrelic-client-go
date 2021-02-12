@@ -6,7 +6,7 @@ import (
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimpig"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // NerdGraph is used to communicate with the New Relic's GraphQL API, NerdGraph.
