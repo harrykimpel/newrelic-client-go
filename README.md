@@ -23,8 +23,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/newrelic/newrelic-client-go/newrelic"
-	"github.com/newrelic/newrelic-client-go/pkg/entities"
+	"github.com/harrykimpel/newrelic-client-go/newrelic"
+	"github.com/harrykimpel/newrelic-client-go/pkg/entities"
 )
 
 func main() {
