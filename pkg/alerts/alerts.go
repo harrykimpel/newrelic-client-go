@@ -3,8 +3,8 @@ package alerts
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpnewrelic-client-go/internal/logging"
-	"github.com/harrykimpent-go/pkg/config"
-	"github.com/harrykimpent-go/pkg/infrastructure"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/pkg/infrastructure"
 )
 
 // Alerts is used to communicate with New Relic Alerts.
