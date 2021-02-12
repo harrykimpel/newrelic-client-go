@@ -6,9 +6,9 @@ import (
 	"fmt"
 
 	"github.com/harrykimpel/newrelic-client-go/pkg/accounts"
-	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/nrdb"
-	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/nrtime"
-	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/users"
+	"github.com/harrykimpel/newrelic-client-go/pkg/nrdb"
+	"github.com/harrykimpel/newrelic-client-go/pkg/nrtime"
+	"github.com/harrykimpel/newrelic-client-go/pkg/users"
 )
 
 // BrowserAgentInstallType - Browser agent install types.

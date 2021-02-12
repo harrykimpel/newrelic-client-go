@@ -3,8 +3,8 @@ package dashboards
 
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/internal/logging"
-	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // Dashboards is used to communicate with the New Relic Dashboards product.

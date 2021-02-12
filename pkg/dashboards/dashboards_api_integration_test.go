@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/harrykimpel/newrelic-client-go/pkg/entities"
-	mock "github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/testhelpers"
+	mock "github.com/harrykimpel/newrelic-client-go/pkg/testhelpers"
 )
 
 func newIntegrationTestClient(t *testing.T) Dashboards {
