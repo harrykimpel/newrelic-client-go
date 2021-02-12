@@ -14,10 +14,10 @@ import (
 
 	retryablehttp "github.com/hashicorp/go-retryablehttp"
 
-	"github.com/newrelic/newrelic-client-go/internal/logging"
-	"github.com/newrelic/newrelic-client-go/internal/version"
-	"github.com/newrelic/newrelic-client-go/pkg/config"
-	nrErrors "github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/internal/version"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
+	nrErrors "github.com/harrykimpel/newrelic-client-go/pkg/errors"
 )
 
 const (
