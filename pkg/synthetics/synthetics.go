@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-	nrhttp "github.com/newrelic/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/internal/logging"
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	nrhttp "github.com/harrykimpel/newrelic-client-go/internal/http"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/el/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/config"
 )
 
 // Synthetics is used to communicate with the New Relic Synthetics product.

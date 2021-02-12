@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/newrelic/newrelic-client-go/internal/serialization"
+	"github.com/harrykimpel/newrelic-client-go/internal/serialization"
 )
 
 var (

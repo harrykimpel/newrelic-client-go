@@ -2,8 +2,8 @@
 package apm
 
 import (
-	"github.com/newrelic/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/internal/http"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/config"
 )
 
 // APM is used to communicate with the New Relic APM product.

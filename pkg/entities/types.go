@@ -5,10 +5,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/pkg/accounts"
-	"github.com/newrelic/newrelic-client-go/pkg/nrdb"
-	"github.com/newrelic/newrelic-client-go/pkg/nrtime"
-	"github.com/newrelic/newrelic-client-go/pkg/users"
+	"github.com/harrykimpel/newrelic-client-go/pkg/accounts"
+	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/nrdb"
+	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/nrtime"
+	"github.com/harrykimpel/el/el/el/el/newrelic-client-go/pkg/users"
 )
 
 // BrowserAgentInstallType - Browser agent install types.

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 func Example_basic() {

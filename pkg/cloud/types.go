@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/pkg/nrtime"
+	"github.com/harrykimpel/newrelic-client-go/pkg/nrtime"
 )
 
 // Actor - The `Actor` object contains fields that are scoped to the API user's access level.

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/newrelic/newrelic-client-go/pkg/entities"
+	"github.com/harrykimpel/newrelic-client-go/pkg/entities"
 )
 
 // ListDashboardsParams represents a set of filters to be

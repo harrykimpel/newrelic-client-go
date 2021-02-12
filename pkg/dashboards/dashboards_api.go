@@ -2,7 +2,7 @@
 package dashboards
 
 import (
-	"github.com/newrelic/newrelic-client-go/pkg/entities"
+	"github.com/harrykimpel/newrelic-client-go/pkg/entities"
 )
 
 // Create a `DashboardEntity`

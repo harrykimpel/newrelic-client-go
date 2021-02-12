@@ -6,9 +6,9 @@ import (
 
 	"github.com/imdario/mergo"
 
-	"github.com/newrelic/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/internal/logging"
-	"github.com/newrelic/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/internal/http"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/el/el/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/config"
 )
 
 const (

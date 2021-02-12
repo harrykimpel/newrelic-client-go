@@ -3,7 +3,7 @@ package apiaccess
 import (
 	"errors"
 
-	"github.com/newrelic/newrelic-client-go/internal/http"
+	"github.com/harrykimpel/newrelic-client-go/internal/http"
 )
 
 type APIKey struct {

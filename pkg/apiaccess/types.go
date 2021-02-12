@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/newrelic/newrelic-client-go/pkg/accounts"
-	"github.com/newrelic/newrelic-client-go/pkg/users"
+	"github.com/harrykimpel/newrelic-client-go/pkg/accounts"
+	"github.com/harrykimpel/el/el/el/newrelic-client-go/pkg/users"
 )
 
 // APIAccessIngestKeyErrorType - The type of error.

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/newrelic/newrelic-client-go/internal/http"
-	"github.com/newrelic/newrelic-client-go/pkg/errors"
+	"github.com/harrykimpel/newrelic-client-go/internal/http"
+	"github.com/harrykimpel/el/el/el/el/el/el/el/newrelic-client-go/pkg/errors"
 )
 
 // AlertsNrqlConditionExpiration
