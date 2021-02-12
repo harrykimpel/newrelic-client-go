@@ -2,7 +2,7 @@ package workloads
 
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/serialization"
-	"github.com/harrykimpel/el/el/newrelic-client-go/pkg/errors"
+	"github.com/harrykimpel/newrelic-client-go/pkg/errors"
 	"github.com/harrykimp
 	"github.com/harrykimp
 )

@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/newrelic-client-go/pkg/errors"
+	"github.com/harrykimpnewrelic-client-go/pkg/errors"
 )
 
 // AlertsNrqlConditionExpiration

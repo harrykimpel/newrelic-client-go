@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/el/newrelic-client-go/internal/logging"
-	"github.com/harrykimpel/el/el/newrelic-client-go/pkg/config"
-	nrErrors "github.com/harrykimpel/el/el/newrelic-client-go/pkg/errors"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
+	"github.com/harrykimprelic-client-go/pkg/config"
+	nrErrors "github.com/harrykimprelic-client-go/pkg/errors"
 )
 
 // EventsToMetrics is used to communicate with New Relic EventsToMetrics.

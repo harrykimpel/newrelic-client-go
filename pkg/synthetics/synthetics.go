@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	nrhttp "github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/el/newrelic-client-go/internal/logging"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
 	"github.com/harrykimp
 )
 
