@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimpel/el/el/el/el/el/el/el/el/el/newrelic-client-go/internal/version"
-	"github.com/harrykimpel/el/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/region"
+	"github.com/harrykimpel/newrelic-client-go/internal/version"
+	"github.com/harrykimpel/newrelic-client-go/pkg/region"
 )
 
 // Config contains all the configuration data for the API Client.
