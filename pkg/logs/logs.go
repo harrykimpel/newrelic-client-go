@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/el/el/el/el/el/newrelic-client-go/internal/logging"
-	"github.com/harrykimpel/el/el/el/el/el/el/newrelic-client-go/pkg/config"
+	"github.com/harrykimpel/newrelic-client-go/internal/logging"
+	"github.com/harrykimp-go/pkg/config"
 )
 
 // Logs is used to send log data to the New Relic Log API

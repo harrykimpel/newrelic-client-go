@@ -2,9 +2,9 @@ package workloads
 
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/serialization"
-	"github.com/harrykimpel/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/errors"
-	"github.com/harrykimpel/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/nerdgraph"
-	"github.com/harrykimpel/el/el/el/el/el/el/el/el/newrelic-client-go/pkg/users"
+	"github.com/harrykimpel/el/el/newrelic-client-go/pkg/errors"
+	"github.com/harrykimp
+	"github.com/harrykimp
 )
 
 // Workload represents a New Relic One workload.

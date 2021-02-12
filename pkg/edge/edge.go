@@ -3,8 +3,8 @@ package edge
 
 import (
 	"github.com/harrykimpel/newrelic-client-go/internal/http"
-	"github.com/harrykimpel/el/el/el/el/el/newrelic-client-go/internal/logging"
-	"github.com/harrykimpel/el/el/el/el/el/newrelic-client-go/pkg/config"
+	"github.com/harrykimpnewrelic-client-go/internal/logging"
+	"github.com/harrykimp
 )
 
 // Edge is used to communicate with the New Relic Edge product.
