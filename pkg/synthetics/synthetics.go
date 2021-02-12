@@ -7,7 +7,7 @@ import (
 
 	nrhttp "github.com/harrykimpel/newrelic-client-go/internal/http"
 	"github.com/harrykimpel/newrelic-client-go/internal/logging"
-	"github.com/harrykimp
+	"github.com/harrykimpel/newrelic-client-go/pkg/config"
 )
 
 // Synthetics is used to communicate with the New Relic Synthetics product.
